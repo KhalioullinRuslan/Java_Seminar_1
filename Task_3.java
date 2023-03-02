@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Scanner;
-
 // Дан массив nums = [3,2,2,3,4,3] и число val  вводим с клавиатуры 
 
 // Если в массиве есть числа, равные заданному, нужно перенести 
@@ -11,6 +8,8 @@ import java.util.Scanner;
 // Вывод:
 // 2, 2, 4, 3, 3, 3
 
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class Task_3 {
     public static void main(String[] args) {
